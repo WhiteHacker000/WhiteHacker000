@@ -31,4 +31,6 @@ I’m interested in collaborating on software development, AI/ML, and open-sourc
 
 Explore my repositories to see what I’m building!
 
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,discord,devto,django,figma,github,mongodb,mysql,nextjs,netlify,ts,vscode,windows&perline=6)](https://skillicons.dev)
+
 [![An image of @whitehacker000's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/whitehacker000)](https://holopin.io/@whitehacker000)
