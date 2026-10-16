@@ -10,7 +10,7 @@ I’m a Computer Science and Artificial Intelligence student passionate about bu
 
 My interests span software development, machine learning, Generative AI, and backend engineering. I enjoy turning ideas into functional products, solving challenging problems, and continuously expanding my technical expertise.
 
-### 🛠️ Technical Interests
+### 💻 Technical Interests
 
 * Programming: Python
 * Backend Development: REST APIs and server-side application development
@@ -18,7 +18,7 @@ My interests span software development, machine learning, Generative AI, and bac
 * Web Development: HTML, CSS, JavaScript, and modern web technologies
 * AI & Machine Learning: Predictive modeling, LLMs, RAG, and AI-powered applications
 
-### 🎯 What I’m Working Toward
+### 🤖 What I’m Working Toward
 
 * Building practical AI-powered applications.
 * Strengthening my software engineering and problem-solving skills.
